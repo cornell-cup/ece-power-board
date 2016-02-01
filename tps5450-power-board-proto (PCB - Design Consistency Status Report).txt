@@ -1,0 +1,19 @@
+Design Consistency Status Report
+--------------------------------
+
+Report File:        D:\Fall 2015\R2\TPS5450 power board prototype\tps5450-power-board-proto (PCB - Design Consistency Status Report).txt
+Report Written:     Sunday, January 31, 2016
+Project Path:       D:\Fall 2015\R2\TPS5450 power board prototype\power-board.prj
+Design Path:        D:\Fall 2015\R2\TPS5450 power board prototype\tps5450-power-board-proto.pcb
+Design Title:       
+Created:            1/31/2016 5:45:32 PM
+Last Saved:         1/31/2016 6:15:46 PM
+Editing Time:       15 min
+Units:              mil (precision 0)
+
+
+Checking integrity of Schematic and Pcb designs in project "power-board"
+========================================================================
+
+
+End Of Report.

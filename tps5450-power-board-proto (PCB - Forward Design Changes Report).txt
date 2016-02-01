@@ -1,0 +1,20 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        D:\Fall 2015\R2\TPS5450 power board prototype\tps5450-power-board-proto (PCB - Forward Design Changes Report).txt
+Report Written:     Sunday, January 31, 2016
+Project Path:       D:\Fall 2015\R2\TPS5450 power board prototype\power-board.prj
+Design Path:        D:\Fall 2015\R2\TPS5450 power board prototype\tps5450-power-board-proto.pcb
+Design Title:       
+Created:            1/31/2016 5:45:32 PM
+Last Saved:         1/31/2016 6:15:46 PM
+Editing Time:       15 min
+Units:              mil (precision 0)
+
+Disconnected pin "D6-1" from net "GND".
+Disconnected pin "D6-2" from net "VIN".
+
+Deleted component reference "D6".
+
+
+End Of Report.
