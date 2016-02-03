@@ -2,14 +2,14 @@ Design Rule Check Report
 ------------------------
 
 Report File:        D:\Fall 2015\R2\TPS5450 power board prototype\tps5450-power-board-proto (PCB - Design Rule Check Report).txt
-Report Written:     Monday, February 01, 2016
+Report Written:     Wednesday, February 03, 2016
 Project Path:       D:\Fall 2015\R2\TPS5450 power board prototype\power-board.prj
 Design Path:        D:\Fall 2015\R2\TPS5450 power board prototype\tps5450-power-board-proto.pcb
 Design Title:       
 Created:            1/31/2016 5:45:32 PM
-Last Saved:         2/1/2016 8:55:31 PM
-Editing Time:       164 min
-Units:              mil (precision 0)
+Last Saved:         2/3/2016 1:45:35 AM
+Editing Time:       296 min
+Units:              mil (precision 3)
 
 
 Results
